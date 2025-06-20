@@ -1,0 +1,5 @@
+[OK] Kern existiert
+[OK] modules/llm.md: Kernelverbindung korrekt
+[ERROR] modules/rights-guardian.yaml fehlt
+[OK] audit/logbook.md: Kernelverbindung korrekt
+[OK] tests/test_health.md: Kernelverbindung korrekt
