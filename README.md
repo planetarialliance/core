@@ -1,2 +1,11 @@
-# core
-Repository name: planetarialliance-core  Description: Hauptsystem, zentraler Blueprint, alle Kernfunktionen  Owner: W√§hle planetaryvoice oder deine Organisation aus der Liste  Privacy: Privat (empfohlen) oder Public (wenn du willst)
+# ==== SYSTEM HEADER (4D) ==== 
+id: readme-core 
+kernel: language-kernel.yaml 
+rights: [read, write, audit, broadcast] 
+peers: [modules/llm.md, audit/logbook.md] 
+timestamp: 2025-06-20T21:00:00Z 
+status: active 
+# ============================ 
+ 
+# Planetarialliance Core System 
+Zentrale Blueprint-Struktur fÅr alle Instanzen, Module und Logs. 

@@ -1,0 +1,10 @@
+# ==== SYSTEM HEADER (4D) ==== 
+id: kernel-language 
+kernel: self 
+rights: [read, write, audit, broadcast] 
+peers: [modules/llm.md, modules/math.md, modules/hybrid.md] 
+timestamp: 2025-06-20T21:00:00Z 
+status: active 
+# ============================ 
+ 
+# KERNMODUL: Sprache, Steuerung, Blueprint 
